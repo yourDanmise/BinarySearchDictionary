@@ -16,6 +16,8 @@ Relay || Medal: NA ||
   Cornelia Aalten (-Strannood) −− > 423  
   Nir Lipo −− > 401  
 ## difference between stage 1 & 2
+In Stage 1 of the assignment we will locate the duplicates by continuing our search until we
+reach a leaf node, regardless of whether or not we have already found a match or matches.  
 
 In Stage 2, we will structure the tree so that once a key is found, all duplicate keys can be
 found without further key comparisons.  
