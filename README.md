@@ -18,6 +18,11 @@ Relay || Medal: NA ||
 ## difference between stage 1 & 2
 In Stage 1 of the assignment we will locate the duplicates by continuing our search until we
 reach a leaf node, regardless of whether or not we have already found a match or matches.  
-![baidu](https://raw.github.com/yourDanmise/BinarySearchDictionary/master/stage1-output.png "百度logo")  
+
+![stage1](https://raw.github.com/yourDanmise/BinarySearchDictionary/master/stage1.png "stage1")  
+![stage1-output](https://raw.github.com/yourDanmise/BinarySearchDictionary/master/stage1-output.png "stage1-output")  
 In Stage 2, we will structure the tree so that once a key is found, all duplicate keys can be
 found without further key comparisons.  
+
+![stage2](https://raw.github.com/yourDanmise/BinarySearchDictionary/master/stage2.png "stage2")  
+![stage2-output](https://raw.github.com/yourDanmise/BinarySearchDictionary/master/stage2-output.png "stage2-output")  
