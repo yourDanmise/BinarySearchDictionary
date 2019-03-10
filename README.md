@@ -1,6 +1,6 @@
 # BinarySearchDictionary
 ## introduction
-  This is the dictionary of all the materials of athletes who have ever taken part in the Olympic Games. We use the nmae of the competitor as the primary key to build a binary search tree. There are about 540,000 lines in 1.csv. we need to use binary search tree to search the name quickly and accurately.
+  This is the dictionary of all the materials of athletes who have ever taken part in the Olympic Games. We use the nmae of the competitor as the primary key to build a binary search tree. There are about 540,000 lines in 1.csv(1.zip). we need to use binary search tree to search the name quickly and accurately.
 ## example output
 ### – output file (information):
   Cornelia Aalten (-Strannood) −− > ID: 8 Sex: F || Age: 18 || Height: 168 ||
@@ -15,3 +15,7 @@ Relay || Medal: NA ||
 ### – stdout (comparisons):
   Cornelia Aalten (-Strannood) −− > 423  
   Nir Lipo −− > 401  
+## difference between stage 1 & 2
+
+In Stage 2, we will structure the tree so that once a key is found, all duplicate keys can be
+found without further key comparisons.  
