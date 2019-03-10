@@ -6,12 +6,12 @@
   Cornelia Aalten (-Strannood) −− > ID: 8 Sex: F || Age: 18 || Height: 168 ||
 Weight: NA || Team: Netherlands || NOC: NED || Games: 1932 Summer || Year: 1932 || Season:
 Summer || City: Los Angeles || Sport: Athletics || Event: Athletics Women’s 100 metres ||
-Medal: NA ||
+Medal: NA ||  
   Cornelia Aalten (-Strannood) −− > ID: 8 Sex: F || Age: 18 || Height: 168 ||
 Weight: NA || Team: Netherlands || NOC: NED || Games: 1932 Summer || Year: 1932 || Season:
 Summer || City: Los Angeles || Sport: Athletics || Event: Athletics Women’s 4 x 100 metres
-Relay || Medal: NA ||
-  Nir Lipo −− > NOTFOUND
+Relay || Medal: NA ||  
+  Nir Lipo −− > NOTFOUND  
 ### – stdout (comparisons):
-  Cornelia Aalten (-Strannood) −− > 423
-  Nir Lipo −− > 401
+  Cornelia Aalten (-Strannood) −− > 423  
+  Nir Lipo −− > 401  
