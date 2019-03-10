@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="assignment"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="G:/algorithm/assignment1/assignment/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="E:/codeblocks/1/CodeBlocks/MinGW/bin/mingw32-make.exe -f &quot;G:/algorithm/assignment1/assignment/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="E:/codeblocks/1/CodeBlocks/MinGW/bin/mingw32-make.exe -f &quot;G:/algorithm/assignment1/assignment/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="E:/codeblocks/1/CodeBlocks/MinGW/bin/mingw32-make.exe -f &quot;G:/algorithm/assignment1/assignment/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="E:/codeblocks/1/CodeBlocks/MinGW/bin/mingw32-make.exe -f &quot;G:/algorithm/assignment1/assignment/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="G:/algorithm/assignment1/assignment/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="E:/codeblocks/1/CodeBlocks/MinGW/bin/mingw32-make.exe -f &quot;G:/algorithm/assignment1/assignment/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="E:/codeblocks/1/CodeBlocks/MinGW/bin/mingw32-make.exe -f &quot;G:/algorithm/assignment1/assignment/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="E:/codeblocks/1/CodeBlocks/MinGW/bin/mingw32-make.exe -f &quot;G:/algorithm/assignment1/assignment/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="E:/codeblocks/1/CodeBlocks/MinGW/bin/mingw32-make.exe -f &quot;G:/algorithm/assignment1/assignment/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="assignment">
+				<Option output="G:/algorithm/assignment1/assignment/cmake-build-debug/assignment.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="G:/algorithm/assignment1/assignment/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="E:/codeblocks/1/CodeBlocks/MinGW/bin/../lib/gcc/mingw32/4.9.2/include"/>
+					<Add directory="E:/codeblocks/1/CodeBlocks/MinGW/bin/../lib/gcc/mingw32/4.9.2/../../../../include"/>
+					<Add directory="E:/codeblocks/1/CodeBlocks/MinGW/bin/../lib/gcc/mingw32/4.9.2/include-fixed"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="E:/codeblocks/1/CodeBlocks/MinGW/bin/mingw32-make.exe -f &quot;G:/algorithm/assignment1/assignment/cmake-build-debug/Makefile&quot;  VERBOSE=1 assignment"/>
+					<CompileFile command="E:/codeblocks/1/CodeBlocks/MinGW/bin/mingw32-make.exe -f &quot;G:/algorithm/assignment1/assignment/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="E:/codeblocks/1/CodeBlocks/MinGW/bin/mingw32-make.exe -f &quot;G:/algorithm/assignment1/assignment/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="E:/codeblocks/1/CodeBlocks/MinGW/bin/mingw32-make.exe -f &quot;G:/algorithm/assignment1/assignment/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="assignment/fast">
+				<Option output="G:/algorithm/assignment1/assignment/cmake-build-debug/assignment.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="G:/algorithm/assignment1/assignment/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="E:/codeblocks/1/CodeBlocks/MinGW/bin/../lib/gcc/mingw32/4.9.2/include"/>
+					<Add directory="E:/codeblocks/1/CodeBlocks/MinGW/bin/../lib/gcc/mingw32/4.9.2/../../../../include"/>
+					<Add directory="E:/codeblocks/1/CodeBlocks/MinGW/bin/../lib/gcc/mingw32/4.9.2/include-fixed"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="E:/codeblocks/1/CodeBlocks/MinGW/bin/mingw32-make.exe -f &quot;G:/algorithm/assignment1/assignment/cmake-build-debug/Makefile&quot;  VERBOSE=1 assignment/fast"/>
+					<CompileFile command="E:/codeblocks/1/CodeBlocks/MinGW/bin/mingw32-make.exe -f &quot;G:/algorithm/assignment1/assignment/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="E:/codeblocks/1/CodeBlocks/MinGW/bin/mingw32-make.exe -f &quot;G:/algorithm/assignment1/assignment/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="E:/codeblocks/1/CodeBlocks/MinGW/bin/mingw32-make.exe -f &quot;G:/algorithm/assignment1/assignment/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="G:/algorithm/assignment1/assignment/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="E:/codeblocks/1/CodeBlocks/MinGW/bin/mingw32-make.exe -f &quot;G:/algorithm/assignment1/assignment/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="E:/codeblocks/1/CodeBlocks/MinGW/bin/mingw32-make.exe -f &quot;G:/algorithm/assignment1/assignment/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="E:/codeblocks/1/CodeBlocks/MinGW/bin/mingw32-make.exe -f &quot;G:/algorithm/assignment1/assignment/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="E:/codeblocks/1/CodeBlocks/MinGW/bin/mingw32-make.exe -f &quot;G:/algorithm/assignment1/assignment/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="G:/algorithm/assignment1/assignment/bst.c">
+			<Option target="assignment"/>
+		</Unit>
+		<Unit filename="G:/algorithm/assignment1/assignment/bst.h">
+			<Option target="assignment"/>
+		</Unit>
+		<Unit filename="G:/algorithm/assignment1/assignment/main.c">
+			<Option target="assignment"/>
+		</Unit>
+		<Unit filename="G:/algorithm/assignment1/assignment/readCSV.c">
+			<Option target="assignment"/>
+		</Unit>
+		<Unit filename="G:/algorithm/assignment1/assignment/readCSV.h">
+			<Option target="assignment"/>
+		</Unit>
+		<Unit filename="G:/algorithm/assignment1/assignment/search.c">
+			<Option target="assignment"/>
+		</Unit>
+		<Unit filename="G:/algorithm/assignment1/assignment/search.h">
+			<Option target="assignment"/>
+		</Unit>
+		<Unit filename="G:/algorithm/assignment1/assignment/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

@@ -1,0 +1,46 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+G:/algorithm/assignment1/assignment/bst.h
+
+G:/algorithm/assignment1/assignment/count.c
+stdio.h
+-
+stdlib.h
+-
+string.h
+-
+bst.h
+G:/algorithm/assignment1/assignment/bst.h
+
+G:/algorithm/assignment1/assignment/main.c
+stdio.h
+-
+stdlib.h
+-
+readCSV.h
+G:/algorithm/assignment1/assignment/readCSV.h
+search.h
+G:/algorithm/assignment1/assignment/search.h
+outPut.c
+G:/algorithm/assignment1/assignment/outPut.c
+string.h
+-
+
+G:/algorithm/assignment1/assignment/outPut.c
+stdio.h
+-
+mem.h
+-
+count.c
+G:/algorithm/assignment1/assignment/count.c
+
+G:/algorithm/assignment1/assignment/readCSV.h
+
+G:/algorithm/assignment1/assignment/search.h
+
